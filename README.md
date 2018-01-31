@@ -1,7 +1,7 @@
 # skatebot
-Twitter Feed von Skate702 auf Telegram. Der Feed wird in den Kanal t.me/skate702 gepostet.
+Twitter Feed von Skate702 auf Telegram. Der Feed wird in den Kanal [Skate702](t.me/skate702) gepostet.
 
-Bei Fragen zum Bot bitte bei t.me/skatefencespam nachfragen.
+Bei Fragen zum Bot bitte in [Skatefence-Spam](t.me/skatefencespam) nachfragen.
 
 Zur Verwendung des Bots für einen anderen Twitter-Account muss nur die Datei config.py bearbeitet werden.
 
